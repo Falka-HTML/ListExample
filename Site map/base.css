@@ -1,0 +1,6 @@
+.arrow{
+   list-style-image: url('images/arrow.png');
+}
+.standart{
+    list-style: decimal;
+}
