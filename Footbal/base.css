@@ -1,0 +1,55 @@
+.group{
+    list-style:none;
+    list-style-image: url('images/ball.png');
+}
+#poland{
+    list-style-image: url('images/poland.png');
+}
+#russia{
+    list-style-image: url('images/russia.png');
+}
+#czech{
+    list-style-image: url('images/czech.png');
+}
+#greece{
+    list-style-image: url('images/greece.png');
+}
+
+#german{
+    list-style-image: url('images/german.jpg');
+}
+#netherlands{
+    list-style-image: url('images/netherlands.jpg');
+}
+#port{
+    list-style-image: url('images/portugal.jpg');
+}
+#denmark{
+    list-style-image: url('images/denmark.jpg');
+}
+
+#spain{
+    list-style-image: url('images/spain.jpg');
+}
+#italy{
+    list-style-image: url('images/italy.png');
+}
+#horvatia{
+    list-style-image: url('images/horvatia.jpg');
+}
+#ireland{
+    list-style-image: url('images/ireland.png');
+}
+
+#ukraine{
+    list-style-image: url('images/ukraine.jpg');
+}
+#england{
+    list-style-image: url('images/england.png');
+}
+#france{
+list-style-image: url('images/french.jpg');
+}
+#sweden{
+    list-style-image: url('images/sweden.png');
+}
